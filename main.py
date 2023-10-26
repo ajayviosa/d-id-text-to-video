@@ -3,7 +3,7 @@ import csv
 import time
 
 # Your D-ID API key
-api_key = 'dmlvc2FvZmZpY2lhbEBnbWFpbC5jb20:QZhqeI4WWCkC2hKhVTsjW'
+api_key = 'YOUR_API_KEY'
 
 # Read questions from a CSV file
 with open('Questionsdemocsv.csv', mode='r', newline='') as file:
